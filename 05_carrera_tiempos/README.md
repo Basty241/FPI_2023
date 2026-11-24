@@ -1,6 +1,6 @@
 # Evaluación de Tiempos de Carrera
 
-**Archivo:** [`Control 1.py`](./Control%201.py)
+**Archivo:** [`Carrera de tiempos.py`](./Carrera%20de%20tiempos.py)
 
 ## ¿De qué se trata?
 

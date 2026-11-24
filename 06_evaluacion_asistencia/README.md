@@ -1,6 +1,6 @@
 # Auditoría de Registro de Asistencia (Tradicional vs. IA)
 
-**Archivo:** [`Control 2.py`](./Control%202.py)
+**Archivo:** [`Evaluación de asistencia.py`](./Evaluaci%C3%B3n%20de%20asistencia.py)
 
 ## ¿De qué se trata?
 

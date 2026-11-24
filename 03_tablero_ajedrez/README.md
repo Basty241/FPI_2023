@@ -1,6 +1,6 @@
 # Validador y Detector de Jaque en Ajedrez
 
-**Archivo:** [`Tablero de Ajedrez - Tarea 2.py`](./Tablero%20de%20Ajedrez%20-%20Tarea%202.py)
+**Archivo:** [`Tablero de Ajedrez.py`](./Tablero%20de%20Ajedrez.py)
 
 ## ¿De qué se trata?
 

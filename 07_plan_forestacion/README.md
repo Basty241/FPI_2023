@@ -1,6 +1,6 @@
 # Plan Forestación (Calama)
 
-**Archivo:** [`0-L-4-GRUPO-1-CODIGO.py`](./0-L-4-GRUPO-1-CODIGO.py)
+**Archivo:** [`Plan de forestación.py`](./Plan%20de%20forestaci%C3%B3n.py)
 
 ## ¿De qué se trata?
 

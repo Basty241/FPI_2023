@@ -1,6 +1,6 @@
 # Recorrido de Laberinto con Portales
 
-**Archivo:** [`Tarea 3.py`](./Tarea%203.py)
+**Archivo:** [`Laberinto.py`](./Laberinto.py)
 
 ## ¿De qué se trata?
 

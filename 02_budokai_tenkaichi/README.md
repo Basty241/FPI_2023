@@ -1,6 +1,6 @@
 # Simulador de Torneo Eliminatorio
 
-**Archivo:** [`Budokai Tenkaichi - Tarea 1.py`](./Budokai%20Tenkaichi%20-%20Tarea%201.py)
+**Archivo:** [`Budokai Tenkaichi.py`](./Budokai%20Tenkaichi.py)
 
 ## ¿De qué se trata?
 

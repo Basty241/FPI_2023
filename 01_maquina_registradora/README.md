@@ -1,6 +1,6 @@
 # Máquina Registradora
 
-**Archivo:** [`Máquina registradora - Tarea 0.py`](./M%C3%A1quina%20registradora%20-%20Tarea%200.py)
+**Archivo:** [`Máquina registradora.py`](./M%C3%A1quina%20registradora.py)
 
 ## ¿De qué se trata?
 
